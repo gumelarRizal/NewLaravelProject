@@ -5,7 +5,7 @@
         <div class="small-box bg-info">
             <div class="inner">
                 <h3>Chart</h3>
-                <p>Income</p>
+                <p>Outcome</p>
             </div>
             <div class="icon">
                 <i class="ion ion-bag"></i>
