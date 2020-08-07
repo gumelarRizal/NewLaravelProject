@@ -4,8 +4,8 @@
     <div class="col-lg-3 col-6">
         <div class="small-box bg-info">
             <div class="inner">
-                <h3>RIjul</h3>
-                <p>Hiye</p>
+                <h3>Chart</h3>
+                <p>Income</p>
             </div>
             <div class="icon">
                 <i class="ion ion-bag"></i>
